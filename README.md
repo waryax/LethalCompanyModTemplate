@@ -1,6 +1,6 @@
 # About this repository
 
-This is a template repo for making mods in Lethal Company. Mostly for my own use. This repo is set up so you can use a ripped Unity project of Lethal Company and debug your mod and the game with working breakpoints and other IDE features.
+This is a template repo for making mods for Lethal Company. Mostly for my own use. This repo is set up so you can use a ripped Unity project of Lethal Company and debug your mod and the game with working breakpoints and other IDE features.
 
 # Getting started
 
