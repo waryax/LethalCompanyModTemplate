@@ -24,6 +24,12 @@ Replace the paths with ones that are correct for you.
 - `LethalCompanyUnityProjectPath`: Path to the root folder of the Unity project.
 - `UnityPath`: Path to the root folder of the Unity version being used.
 
+You might have to modify the post build action defined here if you use a platform other than Windows if it fails:
+
+https://github.com/waryax/LethalCompanyModTemplate/blob/1c7ab10c0ad6fe9954dda8a6d78ddb529579126a/LethalCompanyModTemplate.csproj#L75-L77
+
+It copies the .dll and .pdb of your mod to the Unity project.
+
 ## Rename some stuff
 
 You might want to rename these with your own author and mod names.
