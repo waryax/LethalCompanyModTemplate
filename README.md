@@ -34,10 +34,6 @@ https://github.com/waryax/LethalCompanyModTemplate/blob/de9455dddd28a08c27206106
 
 https://github.com/waryax/LethalCompanyModTemplate/blob/de9455dddd28a08c27206106a25a875233845a5d/LethalCompanyModTemplate.csproj#L12-L18
 
-### Note here that on this Exec line the .dll and .pdb names must match your AssemblyName from before!
-
-https://github.com/waryax/LethalCompanyModTemplate/blob/de9455dddd28a08c27206106a25a875233845a5d/LethalCompanyModTemplate.csproj#L75-L77
-
 https://github.com/waryax/LethalCompanyModTemplate/blob/de9455dddd28a08c27206106a25a875233845a5d/LethalCompanyModTemplate.cs#L4-L11
 
 https://github.com/waryax/LethalCompanyModTemplate/blob/de9455dddd28a08c27206106a25a875233845a5d/Patches/ExampleTVPatch.cs#L2-L4
